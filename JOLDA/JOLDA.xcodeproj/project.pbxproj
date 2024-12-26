@@ -76,6 +76,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6A2B1F692D1DAB89002A473C /* filter-page */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "filter-page";
+			sourceTree = "<group>";
+		};
 		8C305D1B2D1AE831002A9AB3 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +106,7 @@
 		8C305D262D1AE831002A9AB3 /* JOLDA */ = {
 			isa = PBXGroup;
 			children = (
+				6A2B1F692D1DAB89002A473C /* filter-page */,
 				8C305D272D1AE831002A9AB3 /* AppDelegate.swift */,
 				8C305D292D1AE831002A9AB3 /* SceneDelegate.swift */,
 				8C305D2B2D1AE831002A9AB3 /* ViewController.swift */,
